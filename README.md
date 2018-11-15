@@ -2,7 +2,7 @@
 
 #### API query URL:
 
-https://fcc-exercise-tracker-nmc.glitch.me/api/exercise/log?```userId```=<userId>```&from```=<YYYY-MM-DD>```&to```=<YYYY-MM-DD>```&limit```=<limit#>
+https://fcc-exercise-tracker-nmc.glitch.me/api/exercise/log?userId=<userId>&from=<YYYY-MM-DD>&to=<YYYY-MM-DD>&limit=<limit#>
 
 
 where: 
