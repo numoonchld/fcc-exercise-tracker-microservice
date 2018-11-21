@@ -26,4 +26,4 @@ https://fcc-exercise-tracker-nmc.glitch.me/
 
 4. I can retrieve a full exercise log of any user by getting ```/api/exercise/log``` with a parameter of userId(_id). Return will be the user object with added array log and count (total exercise count).
 
-5. I can retrieve part of the log of any user by also passing along optional parameters of ```from``` & ```to``` or limit. (Date format yyyy-mm-dd, limit = int)
+5. I can retrieve part of the log of any user by also passing along optional parameters of ```from``` & ```to``` or ```limit``` (Date format yyyy-mm-dd, limit = int)
