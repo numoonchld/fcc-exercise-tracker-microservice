@@ -16,7 +16,7 @@ where:
 https://fcc-exercise-tracker-nmc.glitch.me/
 
 
-### User Stories
+##### User Stories
 
 1. I can create a user by posting form data username to ```/api/exercise/new-user``` and returned will be an object with username and _id.
 
