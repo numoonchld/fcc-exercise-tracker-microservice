@@ -6,27 +6,22 @@
 body {
   font-family:sans-serif;
   margin: 25px;
-  color: #222;
-  background-color: #fff;
+  background-color: #ECF0F1;
+  text-align: center;
 }
 
 h1 {
   font-weight: bold;
-  
 }
 
-.bold {
-  font-weight: bold;
-}
-
-p {
-  max-width: 900px;
+div {
+  padding: 1%;
 }
 
 form {
   margin-bottom: 25px;
   padding: 15px;
-  background-color: #f93;
+  background-color: #fff;
   display: inline-block;
   width: 100%;
   max-width: 340px;
@@ -48,12 +43,11 @@ input[type=submit] {
   border-radius: 3px;
   background-color: #E4F1FE;
   border: 1px solid grey;
-  box-shadow: 2px 2px #999;
   cursor: pointer;
 }
 
 input[type=submit]:hover {
-  background-color: #FFFEC4;
+  background-color: lightgrey;
 }
 
 code {
@@ -61,11 +55,4 @@ code {
   font-size: 1.2em;
   background-color: #FFFEC4;
   padding: 2px;
-}
-
-.infoBlock {
-  border: 5px solid #ff9933;
-  border-radius: 5px;
-  display: inline-block;
-  padding: 5px;
 }
